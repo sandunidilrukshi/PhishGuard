@@ -105,8 +105,12 @@ async function handleScan() {
   setIsLoading(true)
 
   try {
-    const response = await fetch(
-      'http://127.0.0.1:5000/api/analyze-url',
+    const apiBaseUrl = (
+  import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:5000'
+).replace(/\/+$/, '')
+
+const response = await fetch(
+  `${apiBaseUrl}/api/analyze-url`,
       {
         method: 'POST',
         headers: {
