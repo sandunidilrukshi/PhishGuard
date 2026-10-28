@@ -4,8 +4,7 @@
 
 #
 
-### Main dashboard
-![PhishGuard URL Analyzer](docs/screenshots/01-Main- Dashboard.png)
+
 
 # PhishGuard is an educational cybersecurity web application that helps users
 
