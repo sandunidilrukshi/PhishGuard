@@ -1,8 +1,11 @@
-#
+﻿#
 
 # \# PhishGuard
 
 #
+
+### Main dashboard
+![PhishGuard URL Analyzer](docs/screenshots/01-Main- Dashboard.png)
 
 # PhishGuard is an educational cybersecurity web application that helps users
 
@@ -177,3 +180,16 @@
 # deployment can be added in future development.
 
 #
+## Screenshots
+
+### URL Analyzer
+![PhishGuard URL Analyzer](docs/screenshots/01-url-analyzer.png)
+
+### Email Analyzer
+![PhishGuard Email Analyzer](docs/screenshots/02-email-analyzer.png)
+
+### Password Strength Checker
+![PhishGuard Password Strength Checker](docs/screenshots/03-password-checker.png)
+
+### URL Scan History
+![PhishGuard URL Scan History](docs/screenshots/04-scan-history.png)
