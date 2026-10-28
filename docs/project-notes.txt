@@ -1,0 +1,17 @@
+﻿Project Name: PhishGuard
+Purpose:
+A web-based cybersecurity application for identifying potential
+phishing indicators in URLs and email content, checking password
+strength, and presenting risk assessment results.
+Frontend:
+React, TypeScript, Vite
+Backend:
+Python, Flask
+Database:
+PostgreSQL (Neon - planned)
+Deployment:
+Vercel (planned)
+Development Environment:
+Windows 11
+Day 01 Status:
+Project folders and Python environment setup in progress.
